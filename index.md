@@ -44,9 +44,7 @@ K8 Y5 G1 R0 R8 T3 Y5 D8 C2 N6 Y2 F1 K7 V8
 ```
 
 ### Random Equation
-We found a note next to the front desk with an equation on one side and with all these numbers on the other. Could those numbers be [ASCII numbers](http://www.asciitable.com/) representing characters? What would be the best approach in solving this mess of a puzzle?
-
-**Hint:** Use the programming language of your choice to [loop](https://en.wikipedia.org/wiki/For_loop) through these numbers. If new to programming, we recommend using [Python](https://www.w3schools.com/python/) to decipher this puzzle! 
+We found a note next to the front desk with an equation on one side and with all these numbers on the other side. Could those numbers be [ASCII numbers](http://www.asciitable.com/) representing characters? What would be the best approach in solving this mess of a puzzle?
 
 ![Image of equation on a note](/images/equation.jpeg)
 
@@ -70,8 +68,26 @@ We found a note next to the front desk with an equation on one side and with all
 ```
 
 ### Hexadecimal Graph
-This random graph image was found in our servers alongside with a hexadecimal number. Our guess is that the criminal left this image as a signature of their attack. Could this graph have some form of direction? How can the hexadecimal help us?
+This random graph image was found in our servers alongside with a sequence of [binary numbers](https://techterms.com/definition/binary). Our guess is that the criminal left this image as their **signature**. Could this graph have some form of direction? How can the [hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal) help us?
 
-**Hint:** Hex -> binary -> decimal
+```markdown
+1011 -> 1101 -> 1111 -> 1000
+```
 
+![Image of an undirected graph](/images/graph.jpeg)
 
+### Hints
+Here are some hints in case you are stuck!
+
+#### Password Card
+Match the encrypted numbers to the corresponding rows and columns on the password card.
+
+#### Random Equation
+You can solve this by hand, but it will take a really long time. Instead, use the programming language of your choice to [loop](https://en.wikipedia.org/wiki/For_loop) through these numbers and convert their ascii codes to actual characters. Remember to use the equation!
+
+If new to programming, we recommend using [Python](https://www.w3schools.com/python/) to decipher this puzzle! To avoid the hassle of downloading python, you can use [Python Tutor](http://pythontutor.com/visualize.html#mode=edit) to program and visualize each step from your browser!
+
+#### Hexadecimal Graph
+The binary numbers that were given can be converted to hexadecimal, use the table below as a guide to convert binary to hexadecimal. (If you want to challenge yourself, try doing it without the table).
+
+![Image of number systems table](/images/numbersystemstable.png)
