@@ -11,13 +11,13 @@ There is no evidence except for three puzzles left behind by the criminal. As of
 This is our list of suspects, make sure to take a good look at them, we cannot be mistaken and risk having the criminal escape with the stolen items.
 
 ## Josh Richards
-Josh Richards is a 28-year-old former kitchen chef who is extremely addicted to chocolate. Brad has lost three jobs as a result of his addiction and is not doing too well financially. Just a week ago, he was posting on social media about his financial struggles and how he was planning on doing the next big thing. At first we thought he was talking about looking for a new job or hobby, but things are too coincidental for him not to be a potential suspect in this crime.
+Josh Richards is a 28-year-old former kitchen chef who is extremely addicted to chocolate. Josh has lost three jobs as a result of his addiction and is not doing too well financially. Just a week ago, he was posting on social media about his financial struggles and how he was planning on doing the next big thing. At first we thought he was talking about looking for a new job or hobby, but things are too coincidental for him not to be a potential suspect in this crime.
 
 ![Image of man leaning on wall by shubham kaushal from Pexels](/images/pexels-shubham-kaushal.jpg)
 
 
 ## Alissa Castillo
-Alissa Castillo is 34 years old and has a bachelor's degree in finance. She works at the UCVulnerville Bank and is known to be a very hardworking woman. For the past year, she has received the Employee of the Month award every single month! However, lately she has been very suspicious. Just a couple days ago, she was caught trying to sneak into the vault holding the high-value items that were stolen. Only security guards and other officials are allowed in the vault. That is clearly a red flag tp us, hence why she is one of the potential suspects.
+Alissa Castillo is 34 years old and has a bachelor's degree in finance. She works at the UCVulnerville Bank and is known to be a very hardworking woman. For the past year, she has received the Employee of the Month award every single month! However, lately she has been very suspicious. Just a couple days ago, she was caught trying to sneak into the vault holding the high-value items that were stolen. Only security guards and other officials are allowed in the vault. That is clearly a red flag to us, hence why she is one of the potential suspects.
 
 ![Image of Woman by Jeff Denlea from Pexels](/images/pexels-jeff-denlea.jpg)
 
@@ -33,7 +33,7 @@ Here are the evidence files we found. Be sure to split the work if in a team, te
 
 ### Password Card
 
-Before the robbery, the criminal hacked into the bank's servers and managed to set their own password for accessing the vault. We found this card right next to the keypad leading to the vault, these cards are typically used for password management systems. The criminal must've used this card to remember his password! 
+Before the robbery, the criminal hacked into the bank's servers and managed to set their own password for accessing the vault. We found this card right next to the keypad leading to the vault, these cards are typically used for password management systems. The criminal must've used this card to remember their password! 
 
 ![Image of password card](/images/passcard.png)
 
