@@ -29,7 +29,7 @@ Josh Richards is a 28-year-old former kitchen chef who is extremely addicted to 
 
 ## Evidence Puzzles
 
-Here are the evidence files we found, if you're in a team, we highly recommend each take one puzzle so that you can succeed in finding the person responsible for this crime!
+Here are the evidence files we found, if in a team, we highly recommend each take one puzzle so that you can succeed in finding the person responsible for this crime!
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
