@@ -76,6 +76,9 @@ This random graph image was found in our servers alongside with a sequence of [b
 
 ![Image of an undirected graph](/images/graph.jpeg)
 
+## Submitting your Answer
+Once you have completed the puzzles and know who committed the crime, feel free to submit your answer to this [google form](https://forms.gle/bB6WiNkkWgHxnErHA).
+
 ## Hints
 Here are some hints in case you are stuck!
 
