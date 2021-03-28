@@ -76,18 +76,18 @@ This random graph image was found in our servers alongside with a sequence of [b
 
 ![Image of an undirected graph](/images/graph.jpeg)
 
-### Hints
+## Hints
 Here are some hints in case you are stuck!
 
-#### Password Card
+### Password Card
 Match the encrypted numbers to the corresponding rows and columns on the password card.
 
-#### Random Equation
+### Random Equation
 You can solve this by hand, but it will take a really long time. Instead, use the programming language of your choice to [loop](https://en.wikipedia.org/wiki/For_loop) through these numbers and convert their ascii codes to actual characters. Remember to use the equation!
 
 If new to programming, we recommend using [Python](https://www.w3schools.com/python/) to decipher this puzzle! To avoid the hassle of downloading python, you can use [Python Tutor](http://pythontutor.com/visualize.html#mode=edit) to program and visualize each step from your browser!
 
-#### Hexadecimal Graph
+### Hexadecimal Graph
 The binary numbers that were given can be converted to hexadecimal, use the table below as a guide to convert binary to hexadecimal. (If you want to challenge yourself, try doing it without the table).
 
 ![Image of number systems table](/images/numbersystemstable.png)
