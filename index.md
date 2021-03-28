@@ -13,19 +13,19 @@ This is our list of suspects, make sure to take a good look at them, we cannot b
 ### Scott Stanley
 Scott Stanley is a 30-year old gambler whose life is dominated by trying to make mass amounts of money. People can't even count the number of times this man has started a business and failed miserably. Two months ago, at a local cafe, Scott was bragging about how he invested a lot of money into GameStop (GME), the infamous stock of the year. Little did he know, the stock came crashing down the next week causing him to lose his life savings in sheer minutes. Because of this, he's become a very angry man who complains about everything and thinks the world is against him. We think there is enough reason for him to be a potential suspect.
 
-![Image of Man Walking by Milad Heran from Pexels](https://images.pexels.com/photos/3977441/pexels-photo-3977441.jpeg?cs=srgb&dl=pexels-milad-heran-3977441.jpg&fm=jpg)
+![Image of Man Walking by Milad Heran from Pexels](/images/pexels-milad-heran.jpg)
 
 
 ## Alissa Castillo
 Alissa Castillo is 34 years old and has a bachelor's degree in finance. She works at the UCVulnerville Bank and is known to be a very hardworking woman. For the past year, she has received the Employee of the Month award every single month! However, lately she has been very suspicious. Just a couple days ago, she was caught trying to sneak into the vault holding the high-value items that were stolen. Only security guards and other officials are allowed in the vault. That is clearly a red flag tp us, hence why she is one of the potential suspects.
 
-![Image of Woman by Jeff Denlea from Pexels](https://images.pexels.com/photos/5805992/pexels-photo-5805992.jpeg?cs=srgb&dl=pexels-jeff-denlea-5805992.jpg&fm=jpg)
+![Image of Woman by Jeff Denlea from Pexels](/images/pexels-jeff-denlea.jpg)
 
 
 ## Josh Richards
 Josh Richards is a 28-year-old former kitchen chef who is extremely addicted to chocolate. Brad has lost three jobs as a result of his addiction and is not doing too well financially. Just a week ago, he was posting on social media about his financial struggles and how he was planning on doing the next big thing. At first we thought he was talking about looking for a new job or hobby, but things are too coincidental for him not to be a potential suspect in this crime.
 
-![Image of man leaning on wall by shubham kaushal from Pexels](https://images.pexels.com/photos/7011251/pexels-photo-7011251.jpeg?cs=srgb&dl=pexels-shubham-kaushal-7011251.jpg&fm=jpg)
+![Image of man leaning on wall by shubham kaushal from Pexels](/images/pexels-shubham-kaushal.jpg)
 
 ## Evidence Puzzles
 
