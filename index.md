@@ -46,7 +46,7 @@ K8 Y5 G1 R0 R8 T3 Y5 D8 C2 N6 Y2 F1 K7 V8
 ### Random Equation
 We found a note next to the front desk with an equation on one side and with all these numbers on the other. Could those numbers be [ASCII numbers](http://www.asciitable.com/) representing characters? What would be the best approach in solving this mess of a puzzle?
 
-Hint: For loops + chr() is your best friend :D
+**Hint:** Use the programming language of your choice to [loop](https://en.wikipedia.org/wiki/For_loop) through these numbers. If new to programming, we recommend using [Python](https://www.w3schools.com/python/) to decipher this puzzle! 
 
 ![Image of equation on a note](/images/equation.jpeg)
 
@@ -72,6 +72,6 @@ Hint: For loops + chr() is your best friend :D
 ### Hexadecimal Graph
 This random graph image was found in our servers alongside with a hexadecimal number. Our guess is that the criminal left this image as a signature of their attack. Could this graph have some form of direction? How can the hexadecimal help us?
 
-Hint: Hex -> binary -> decimal
+**Hint:** Hex -> binary -> decimal
 
 
