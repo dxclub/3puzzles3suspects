@@ -40,7 +40,7 @@ Before the robbery, the criminal hacked into the bank's servers and managed to s
 Here is the encrypted password we found on our servers, decipher it!
 
 ```markdown
-K8 Y5 G1 R0 R8 T3 Y5 D8 C2 N6 Y2 F1 K7 V8
+K8 Y5 S6 R0 R8 T3 Y5 D8 C2 N6 Y2 F1 K7 V8
 ```
 
 ### Random Equation
